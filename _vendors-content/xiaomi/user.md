@@ -1,3 +1,4 @@
+![1000013217](https://github.com/urbandroid-team/dont-kill-my-app/assets/162489257/201b6cad-fc81-4c92-aa0f-b0822c76e9f7)
 ---
 manufacturer: 
     - xiaomi
